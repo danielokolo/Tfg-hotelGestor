@@ -1,0 +1,8 @@
+﻿namespace Tfg_hotelGestor.DTO_s.Response
+{
+    public class UserTypeRs
+    {
+        public int Id { get; set; }
+        public string Type { get; set; } = string.Empty;
+    }
+}

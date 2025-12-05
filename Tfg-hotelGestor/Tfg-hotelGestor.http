@@ -1,0 +1,6 @@
+@Tfg_hotelGestor_HostAddress = http://localhost:5176
+
+GET {{Tfg_hotelGestor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
